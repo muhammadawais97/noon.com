@@ -1,0 +1,59 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+
+
+.kifIEG {
+    font-weight: 600;
+    font-family: Cairo;
+    cursor: pointer;
+    margin-right: 40px;
+}
+.input{
+    display: flex;
+
+}
+.dropdown{
+    margin-left: 20px;
+}
+.dropdown a{
+    color: blue;
+    background-color: white;
+    margin-top: 15px;
+    border: none;
+}
+.images{
+    display: flex;
+}
+.item-one{
+    display: flex;
+    cursor: pointer;
+    gap: 10px;
+    padding-bottom: 50px;
+}
+.item{
+    margin-top: 25px;
+}
+.card-1{
+    margin-top: 30px;
+}
+.item img:hover{
+    box-shadow: 2px 2px 5px black;
+    border-radius: 20px;
+}
+.card img:hover{
+    box-shadow: 2px 2px 5px black;
+    border-radius: 20px;
+}
+.card-body p{
+    font-weight: bold;
+}
+.card-body sup{
+    color: green;
+}
+  .card-two {
+    justify-content: center;
+}
